@@ -1,0 +1,53 @@
+.btn-salias {
+  background-color: #97c93e;
+  color: white;
+}
+.btn-salias:hover {
+  background-color: #82ad36;
+}
+
+.bg-salias {
+  background: #13334c;
+}
+#header img {
+  width: 50px;
+}
+
+#main .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+  filter: grayscale(70%);
+}
+#carousel {
+  position: relative;
+}
+#carousel .overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#Proximamente {
+  background-color: #343a40;
+  color: white;
+}
+#Proximamente img {
+  max-width: 100%;
+}
+
+.icon-salias i {
+  margin: 15px;
+}
+
+#footer {
+  background: linear-gradient(90deg, #13334c,50%,#005792);
+}
+#footer a {
+  color: white;
+}
